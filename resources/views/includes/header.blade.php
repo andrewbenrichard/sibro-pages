@@ -5,7 +5,7 @@
             <div class="row-table">
                 <div class="col-cell header-logo">
                     <div class="logo-area">
-                        <a href="index.html">
+                        <a href="/">
                             <img class="normal-logo" src="/assets/images/sibro-logo.svg" alt="logo">
                             <img class="sticky-logo" src="/assets/images/logo-green.svg" alt="logo">
                         </a>
