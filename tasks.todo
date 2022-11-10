@@ -1,0 +1,78 @@
+Sibro:
+    reseller api: 
+        ☐ Billing info
+        ✔ create store @done(22-10-26 05:18)
+        ☐ otp
+        ✔ subscription @done(22-10-27 23:45)
+        ☐ subscription cron job and trackng with emails
+        ☐ orders cron job -- check if the order was made within 5 days and not returned then add the money to the reseller wallet
+        ☐ wallet info
+        ☐ get user @low 
+        ✔ check product status @low @done(22-10-26 05:18)
+        ☐ upload profile image
+        ✔ categories @done(22-10-09 07:54)
+        ✔ dashboard @done(22-10-26 05:18)
+        ✔ remove 00 from products price @done(22-10-26 05:18)
+        ✔ rating @done(22-10-26 05:18)
+        ✔ products @done(22-10-09 07:47)
+        ✔ products search @done(22-10-09 07:47)
+        ✔ verify store url @done(22-10-26 05:18)
+        ☐ update store
+        ☐ upload store image
+        ☐ user bank account
+        ☐ add product to store 
+    
+    Sms list:
+        resellers:
+            ☐ otp
+        customers: 
+            ☐ order confirmation
+            ☐ order dispatched
+        Vendors: 
+            ☐ otp
+            ☐ New order received
+            ☐ order canceled
+            ☐ dispatch on the way
+    Email list:
+        reseller:
+            ☐ welcome
+            ☐ new order received
+            ☐ order canceled
+            ☐ forgot password
+            ☐ Subscription renewed
+            ☐ subscription expired
+            ☐ newsletter
+        Customers:
+            ☐ order confirmation
+        vendors:
+            ☐ new order
+            ☐ order canceled
+            ☐ newsletter
+    Push notifications:
+        resellers:
+            ☐ new order from store
+            ☐ broadcasts 
+    
+
+    Stores Api list:
+        ✔ home api @done(22-10-29 14:03)
+        ✔ products search and list @done(22-10-29 14:19)
+        ✔ single product @done(22-10-29 14:25)
+        ✔ login @done(22-10-29 15:00)
+        ✔ signup @done(22-10-29 15:00)
+        ☐ forgot password
+        ✔ add-cart @done(22-11-02 23:53)
+        ✔ update-cart @done(22-11-02 23:53)
+        ✔ update-cart @done(22-11-02 23:53)
+        ✔ cart - list @done(22-11-02 23:53)
+        ✔ checkout @done(22-11-05 06:10)
+        ✔ my account @done(22-11-02 23:56)
+        ☐ my orders
+        ☐ change password
+        ☐ billing address
+        ☐ update account
+
+
+
+
+  
