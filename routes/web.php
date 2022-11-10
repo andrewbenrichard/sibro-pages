@@ -11,9 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/jwt-test', function () {
-    return JWTAuth::parseToken()->authenticate();
-});
+// create home page route with controller
+Route::get('/', 'PagesController@index');
+Route::get('/pages/reseller-terms', 'PagesController@resellerTerms');
+Route::get('/pages/reseller-privacy', 'PagesController@resellerPrivacy');
+Route::get('/pages/reseller-guide', 'PagesController@resellerPrivacy');
