@@ -21,3 +21,4 @@ Route::get('/pages/reseller-guide', 'PagesController@resellerPrivacy');
 Route::group(['prefix' => 'pilot'], function () {
     Route::get('reseller/guide', 'PilotController@guide');
 });
+Route::get('app-pilot', 'PilotController@guide');
