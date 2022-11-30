@@ -20,7 +20,7 @@
 
 
 <!-- JS here -->
-<script src="pilot/js/vendor/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.sibro.ng/pilot/js/vendor/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.sibro.ng/pilot/js/vendor/waypoints.min.js"></script>
 <script src="https://cdn.sibro.ng/pilot/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdn.sibro.ng/pilot/js/meanmenu.js"></script>
