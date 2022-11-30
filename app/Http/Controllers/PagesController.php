@@ -24,4 +24,14 @@ class PagesController extends Controller
         $title = 'Resellers Privacy Policy';
         return view('pages.reseller.terms', compact('title'));
     }
+
+    public function contactUs()
+    {
+        $title = 'Contact us';
+        return view('pages.contact', compact('title'));
+    }
+    public function contactUsPost()
+    {
+        return 'We got your message and will get back to you soon';
+    }
 }
