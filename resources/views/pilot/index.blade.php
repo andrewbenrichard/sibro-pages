@@ -28,7 +28,7 @@
                         <h2 class="dbanner-title wow animate__animated animate__fadeInUp" data-wow-delay=".2s">Business
                             Tools and Guide</h2>
                         <p class="banner-subtitle wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
-                            To help grow your business
+                            Coming soon
                         </p>
                     </div>
                     {{-- <div class="banner-search align-items-center wow animate__animated animate__fadeInUp"
@@ -63,7 +63,7 @@
 </section>
 <!-- banner area end here -->
 
-<div class="best-features pb-50">
+{{-- <div class="best-features pb-50">
     <div class="container">
         <div class="row">
             <div class="col-xl-4 col-lg-4 col-md-6">
@@ -114,10 +114,10 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 <!-- faq-area start here -->
-<div class="faq-area pt-120 pb-115">
+{{-- <div class="faq-area pt-120 pb-115">
     <div class="container">
         <div class="row justify-content-center wow fadeInUp">
             <div class="col-xl-8 col-lg-8">
@@ -243,7 +243,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 <!-- faq-area end here -->
 
 @stop
