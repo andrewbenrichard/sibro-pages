@@ -11,7 +11,7 @@ class PilotController extends Controller
 
     public function guide()
     {
-        $title = 'Resellers Guide';
-        return view('pages.reseller.terms', compact('title'));
+        $title = 'Sibro Pilot ';
+        return view('pilot.index', compact('title'));
     }
 }
