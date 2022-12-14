@@ -49,7 +49,7 @@ class PagesController extends Controller
             echo 'We are redirecting you to the iOS app';
             return redirect('https://apps.apple.com/app/sibro-sell-from-home/id6444813730');
         } else {
-            echo 'Unfortunately we do not have an app for your device yet';
+            echo 'https://sibro.ng';
         }
     }
 }
