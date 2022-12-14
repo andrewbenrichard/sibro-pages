@@ -18,6 +18,7 @@ Route::get('/pages/reseller-privacy', 'PagesController@resellerPrivacy');
 Route::get('/pages/reseller-guide', 'PagesController@resellerPrivacy');
 Route::get('/pages/contact-us', 'PagesController@contactUs');
 Route::post('/post-contact', 'PagesController@contactUsPost');
+Route::get('/app', 'PagesController@appRedirect');
 
 // create group for reseller routes
 Route::group(['prefix' => 'pilot'], function () {

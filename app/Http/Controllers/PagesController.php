@@ -34,4 +34,22 @@ class PagesController extends Controller
     {
         return 'We got your message and will get back to you soon';
     }
+    public function appRedirect()
+    {
+        //Detect devices
+        $iPod    = stripos($_SERVER['HTTP_USER_AGENT'], "iPod");
+        $iPhone  = stripos($_SERVER['HTTP_USER_AGENT'], "iPhone");
+        $iPad    = stripos($_SERVER['HTTP_USER_AGENT'], "iPad");
+        $Android = stripos($_SERVER['HTTP_USER_AGENT'], "Android");
+
+        if ($Android) {
+            echo 'We are redirecting you to the Android app';
+            return redirect('https://play.google.com/store/apps/details?id=com.sibrocommerce.app');
+        } else if ($iPod || $iPhone || $iPad) {
+            echo 'We are redirecting you to the iOS app';
+            return redirect('https://apps.apple.com/app/sibro-sell-from-home/id6444813730');
+        } else {
+            echo 'Unfortunately we do not have an app for your device yet';
+        }
+    }
 }
