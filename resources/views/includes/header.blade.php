@@ -61,13 +61,13 @@
                 <div class="col-cell">
                     <div class="expand-btn-inner">
                         <ul>
-                            <li class="btn-signin">
+                            {{-- <li class="btn-signin">
                                 <a class="signin-button" href="#">
                                     <span class="sign-text"> About us </span>
                                 </a>
-                            </li>
+                            </li> --}}
                             <li class="btn-quote">
-                                <a href="#"><span class="btn-text">
+                                <a href="/supplier"><span class="btn-text">
                                         Become a Supplier</span></a>
                             </li>
                             <li class="nav-link">

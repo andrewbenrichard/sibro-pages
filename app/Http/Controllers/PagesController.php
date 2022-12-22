@@ -30,6 +30,11 @@ class PagesController extends Controller
         $title = 'Contact us';
         return view('pages.contact', compact('title'));
     }
+    public function suppliers()
+    {
+        $title = 'Become a Suppliers';
+        return view('pages.suppliers', compact('title'));
+    }
     public function contactUsPost()
     {
         return 'We got your message and will get back to you soon';

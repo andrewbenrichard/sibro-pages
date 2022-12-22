@@ -578,7 +578,7 @@ ul.check-lists.check-style5 .list-item .list-text {
 }
 
 ul.check-lists.check-style6 .list-item .icon-list-icon i {
-  color: #113cfc;
+  color: #088360;
 }
 
 ul.check-lists.check-style7 .list-item .list-text {
@@ -966,13 +966,13 @@ blockquote p {
 
 .readon.started.contact {
   padding: 18px 38px 16px 38px;
-  background-color: #534FF8;
+  background-color: #088360;
   color: #ffffff;
   border-radius: 40px 40px 40px 40px;
 }
 
 .readon.started.contact:before {
-  background-color: #726FF0;
+  background-color: #000000;
 }
 
 .readon.started.contact.trial {
