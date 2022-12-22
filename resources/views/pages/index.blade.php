@@ -16,12 +16,14 @@
                     </div>
                     <ul class="bnr-btn-wrapper">
                         <li>
-                            <a class="rselement-btn" href="contact-1.html">
+                            <a class="rselement-btn"
+                                href="https://play.google.com/store/apps/details?id=com.sibrocommerce.app">
                                 <i class="ri-apple-fill"></i> Apps Store
                             </a>
                         </li>
                         <li>
-                            <a class="rselement-btn rselement-active" href="contact-1.html">
+                            <a class="rselement-btn rselement-active"
+                                href="https://apps.apple.com/app/sibro-sell-from-home/id6444813730">
                                 <i class="ri-google-play-fill"></i> Play Store
                             </a>
                         </li>
@@ -302,7 +304,7 @@
                             Open your Online store
                         </h3>
                         <div class="btn-part mt-33">
-                            <a class="readon try-btn" href="contact-1.html">
+                            <a class="readon try-btn" href="/app">
                                 <span class="btn-text">Get our app</span>
                             </a>
                         </div>
