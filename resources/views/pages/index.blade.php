@@ -17,13 +17,13 @@
                     <ul class="bnr-btn-wrapper">
                         <li>
                             <a class="rselement-btn"
-                                href="https://play.google.com/store/apps/details?id=com.sibrocommerce.app">
+                                href="https://apps.apple.com/app/sibro-sell-from-home/id6444813730">
                                 <i class="ri-apple-fill"></i> Apps Store
                             </a>
                         </li>
                         <li>
                             <a class="rselement-btn rselement-active"
-                                href="https://apps.apple.com/app/sibro-sell-from-home/id6444813730">
+                                href="https://play.google.com/store/apps/details?id=com.sibrocommerce.app">
                                 <i class="ri-google-play-fill"></i> Play Store
                             </a>
                         </li>
