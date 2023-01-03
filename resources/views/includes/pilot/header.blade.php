@@ -14,7 +14,7 @@
                 <div class="row align-items-center">
                     <div class="col-9">
                         <a href="index.html">
-                            <img src="https://cdn.sibro.ng/pilot/img/logo/logo-black.png" alt="logo">
+                            <img src="https://cdnv2.sibro.ng/pilot/img/logo/logo-black.png" alt="logo">
                         </a>
                     </div>
                     <div class="col-3 text-end">
@@ -99,7 +99,7 @@
             <div class="col-xl-3 col-lg-3 col-md-6 col-6">
                 <div class="header-main-left">
                     <div class="header-logo header1-logo">
-                        <a href="index.html" class="logo-bl"><img src="https://cdn.sibro.ng/pilot/img/logo/logo.png"
+                        <a href="index.html" class="logo-bl"><img src="https://cdnv2.sibro.ng/pilot/img/logo/logo.png"
                                 alt="logo-img" /></a>
                     </div>
                 </div>

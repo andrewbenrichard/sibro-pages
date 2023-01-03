@@ -5,25 +5,27 @@
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="next-head-count" content="2" />
-    <link rel="stylesheet" href="https://cdn.sibro.ng/pilot/next/assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://cdn.sibro.ng/pilot/next/assets/css/animate.min.css" />
-    <link rel="stylesheet" href="https://cdn.sibro.ng/pilot/next/assets/css/default.css" />
-    <link rel="stylesheet" href="https://cdn.sibro.ng/pilot/next/assets/css/style.css" />
-    <link rel="preload" href="/https://cdn.sibro.ng/pilot/next/_next//static/css/7ef2a12f9da84257.css" as="style" />
-    <link rel="stylesheet" href="/https://cdn.sibro.ng/pilot/next/_next//static/css/7ef2a12f9da84257.css" data-n-g="" />
+    <link rel="stylesheet" href="https://cdnv2.sibro.ng/pilot/next/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnv2.sibro.ng/pilot/next/assets/css/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnv2.sibro.ng/pilot/next/assets/css/default.css" />
+    <link rel="stylesheet" href="https://cdnv2.sibro.ng/pilot/next/assets/css/style.css" />
+    <link rel="preload" href="/https://cdnv2.sibro.ng/pilot/next/_next//static/css/7ef2a12f9da84257.css" as="style" />
+    <link rel="stylesheet" href="/https://cdnv2.sibro.ng/pilot/next/_next//static/css/7ef2a12f9da84257.css"
+        data-n-g="" />
     <noscript data-n-css=""></noscript>
     <script defer="" nomodule=""
-        src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/webpack-8fa1640cc84ba8fe.js" defer=""></script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/framework-114634acb84f8baa.js" defer=""></script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/main-f8a164d78cff8422.js" defer=""></script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/pages/_app-5f747a0a6832388e.js" defer="">
+        src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/webpack-8fa1640cc84ba8fe.js" defer=""></script>
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/framework-114634acb84f8baa.js" defer="">
     </script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/chunks/pages/index-29d3fb74c4c08076.js" defer="">
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/main-f8a164d78cff8422.js" defer=""></script>
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/pages/_app-5f747a0a6832388e.js" defer="">
     </script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/fX0HIuSjLN0OMn1TaB7vx/_buildManifest.js" defer="">
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/chunks/pages/index-29d3fb74c4c08076.js" defer="">
     </script>
-    <script src="/https://cdn.sibro.ng/pilot/next/_next//static/fX0HIuSjLN0OMn1TaB7vx/_ssgManifest.js" defer="">
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/fX0HIuSjLN0OMn1TaB7vx/_buildManifest.js" defer="">
+    </script>
+    <script src="/https://cdnv2.sibro.ng/pilot/next/_next//static/fX0HIuSjLN0OMn1TaB7vx/_ssgManifest.js" defer="">
     </script>
 </head>
 

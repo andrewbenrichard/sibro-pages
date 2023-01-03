@@ -20,24 +20,24 @@
 
 
 <!-- JS here -->
-<script src="https://cdn.sibro.ng/pilot/js/vendor/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/vendor/waypoints.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/meanmenu.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/metisMenu.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/swiper-bundle.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/magnific-popup.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/progresscircle.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/backToTop.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/nice-select.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/jquery.countdown.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/skill.bars.jquery.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/typed.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/loader.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/ajax-form.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/codemirror.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/xml.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/wow.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/isotope.pkgd.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/imagesloaded.pkgd.min.js"></script>
-<script src="https://cdn.sibro.ng/pilot/js/main.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/vendor/jquery-3.6.0.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/vendor/waypoints.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/meanmenu.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/metisMenu.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/swiper-bundle.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/magnific-popup.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/progresscircle.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/backToTop.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/nice-select.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/jquery.countdown.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/skill.bars.jquery.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/typed.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/loader.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/ajax-form.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/codemirror.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/xml.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/wow.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/isotope.pkgd.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdnv2.sibro.ng/pilot/js/main.js"></script>
